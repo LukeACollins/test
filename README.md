@@ -3,3 +3,4 @@ Git is
 new change
 blah
 Git is cool
+blah blah
